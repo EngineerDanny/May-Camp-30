@@ -1,0 +1,12 @@
+1. Ghana Post Service API
+2. MoMo Handler
+3. Fuel Price Prediction in Ghana.
+4. ECG Energy usage estimator.
+4. Language translator (Between English and Twi)
+5. Lie Detector using body language
+6. Gender Predictor using your name
+7. Automated Teller Machine
+8. Handwritting recognizer
+9. Movie Scraper
+10. Weather Predictor
+11. Scientific Calculator : A student app with scientific & GPA calculator and unit converter.
