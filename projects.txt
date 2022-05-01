@@ -10,3 +10,5 @@
 9. Movie Scraper
 10. Weather Predictor
 11. Scientific Calculator : A student app with scientific & GPA calculator and unit converter.
+12. Grad School Assistant : A webapp which takes student's GPA, location, undergraduate program and work experience
+                            to predict the schools he is likely to be admitted.
